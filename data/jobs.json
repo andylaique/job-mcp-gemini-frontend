@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "title": "Senior Python Backend Engineer",
+    "company": "TechNova Inc",
+    "location": "San Francisco, CA",
+    "remote": true,
+    "skills": ["Python", "FastAPI", "PostgreSQL", "Docker", "AWS"],
+    "salary_min": 140000,
+    "salary_max": 180000,
+    "description": "Build scalable APIs and microservices for our AI platform."
+  },
+  {
+    "id": 2,
+    "title": "Frontend React Developer",
+    "company": "PixelCraft Studios",
+    "location": "New York, NY",
+    "remote": false,
+    "skills": ["React", "TypeScript", "Next.js", "Tailwind CSS", "GraphQL"],
+    "salary_min": 110000,
+    "salary_max": 145000,
+    "description": "Create beautiful, performant user interfaces for creative tools."
+  },
+  {
+    "id": 3,
+    "title": "Full Stack Engineer",
+    "company": "TechNova Inc",
+    "location": "Remote",
+    "remote": true,
+    "skills": ["Python", "React", "Node.js", "MongoDB", "Kubernetes"],
+    "salary_min": 130000,
+    "salary_max": 170000,
+    "description": "Work across the stack on our core product features."
+  },
+  {
+    "id": 4,
+    "title": "Data Engineer",
+    "company": "DataPulse Analytics",
+    "location": "Austin, TX",
+    "remote": true,
+    "skills": ["Python", "Spark", "Airflow", "SQL", "BigQuery"],
+    "salary_min": 125000,
+    "salary_max": 160000,
+    "description": "Design and maintain data pipelines for analytics."
+  },
+  {
+    "id": 5,
+    "title": "DevOps Engineer",
+    "company": "CloudForge Systems",
+    "location": "Seattle, WA",
+    "remote": false,
+    "skills": ["Kubernetes", "Terraform", "AWS", "Docker", "CI/CD"],
+    "salary_min": 135000,
+    "salary_max": 175000,
+    "description": "Automate infrastructure and improve deployment reliability."
+  },
+  {
+    "id": 6,
+    "title": "Machine Learning Engineer",
+    "company": "TechNova Inc",
+    "location": "Remote",
+    "remote": true,
+    "skills": ["Python", "PyTorch", "TensorFlow", "MLOps", "AWS"],
+    "salary_min": 150000,
+    "salary_max": 200000,
+    "description": "Train and deploy production ML models."
+  },
+  {
+    "id": 7,
+    "title": "Junior Frontend Developer",
+    "company": "PixelCraft Studios",
+    "location": "New York, NY",
+    "remote": false,
+    "skills": ["JavaScript", "React", "CSS", "HTML", "Git"],
+    "salary_min": 75000,
+    "salary_max": 95000,
+    "description": "Support the frontend team on UI components and bug fixes."
+  },
+  {
+    "id": 8,
+    "title": "Backend Go Engineer",
+    "company": "CloudForge Systems",
+    "location": "Seattle, WA",
+    "remote": true,
+    "skills": ["Go", "gRPC", "PostgreSQL", "Redis", "Kubernetes"],
+    "salary_min": 145000,
+    "salary_max": 185000,
+    "description": "High-performance services for cloud infrastructure."
+  },
+  {
+    "id": 9,
+    "title": "Product Designer",
+    "company": "PixelCraft Studios",
+    "location": "Remote",
+    "remote": true,
+    "skills": ["Figma", "UI/UX", "Prototyping", "User Research"],
+    "salary_min": 100000,
+    "salary_max": 130000,
+    "description": "Design delightful experiences for creative professionals."
+  },
+  {
+    "id": 10,
+    "title": "Security Engineer",
+    "company": "DataPulse Analytics",
+    "location": "Austin, TX",
+    "remote": false,
+    "skills": ["Python", "Security", "Penetration Testing", "AWS", "IAM"],
+    "salary_min": 140000,
+    "salary_max": 180000,
+    "description": "Protect our data platform and customer information."
+  },
+  {
+    "id": 11,
+    "title": "Rust Systems Engineer",
+    "company": "CloudForge Systems",
+    "location": "Remote",
+    "remote": true,
+    "skills": ["Rust", "Systems Programming", "Linux", "Networking"],
+    "salary_min": 155000,
+    "salary_max": 195000,
+    "description": "Build high-performance networking components in Rust."
+  },
+  {
+    "id": 12,
+    "title": "AI Research Scientist",
+    "company": "TechNova Inc",
+    "location": "San Francisco, CA",
+    "remote": false,
+    "skills": ["Python", "PyTorch", "Research", "NLP", "Transformers"],
+    "salary_min": 180000,
+    "salary_max": 250000,
+    "description": "Advance the state of the art in generative AI."
+  }
+]
