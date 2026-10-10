@@ -1,0 +1,17 @@
+[project]
+name = "job-postings-mcp"
+version = "1.0.0"
+description = "MCP server exposing tools over a sample job-postings dataset"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "mcp[cli]>=2.0.0",
+    "pydantic>=2.0",
+]
+
+[project.scripts]
+job-postings-mcp = "server:mcp"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
